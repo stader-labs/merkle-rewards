@@ -1,0 +1,22 @@
+{
+  "cycle": 1,
+  "poolId": 2,
+  "startBlock": 17416150,
+  "endBlock": 17617749,
+  "merkle": {
+    "root": "0x7e0380215bd703b48d944b908843516e2f86a108628a1801817373abdcb5e369",
+    "operatorSd": "0",
+    "userEth": "0",
+    "operatorEth": "0",
+    "createdAt": 1690808635522,
+    "protocolEth": "0",
+    "id": "1_2"
+  },
+  "data": [
+    ["0xaB9DEe304E65D6Fffc7b0f5E6381578F8138aE55", "0", "0"],
+    ["0xb851788Fa34B0d9215F54531061D4e2e06A74AEE", "0", "0"],
+    ["0xd541aEecB38c21D2A3C3269B977B8c2B7AD36221", "0", "0"],
+    ["0x3E7ba0b5015dBc209a4eAc1a3Ef3CBEF0162CF11", "0", "0"],
+    ["0xA99D16AB07039995A2f285F531d0067A72Ebe247", "0", "0"]
+  ]
+}
