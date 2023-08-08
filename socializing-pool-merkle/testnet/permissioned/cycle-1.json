@@ -1,1 +1,19 @@
-{}
+{
+  "cycle": 1,
+  "poolId": 2,
+  "startBlock": 9248949,
+  "endBlock": 9450548,
+  "merkle": {
+    "root": "0x1b9980deb98b214b19825130934b9ff3fc4fce5af5aabdb37a1d2db56c93ab3d",
+    "operatorSd": "0",
+    "userEth": "0",
+    "operatorEth": "0",
+    "createdAt": 1691474241322,
+    "protocolEth": "0",
+    "id": "1_2"
+  },
+  "data": [
+    ["0x1DAFb414D821A0A35F70c58758c36723FBe4E548", "0", "0"],
+    ["0xE336BDec75945411dd857407AB30cf2E0A5Be7B0", "0", "0"]
+  ]
+}
