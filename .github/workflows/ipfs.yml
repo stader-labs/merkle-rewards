@@ -25,7 +25,7 @@ jobs:
       - name: Checkout github repo
         uses: actions/checkout@v2
       - name: Fetch updated files
-        uses: tj-actions/changed-files@v39
+        uses: tj-actions/changed-files@v41
         with:
           files_yaml: |
             json: socializing-pool-merkle/**
